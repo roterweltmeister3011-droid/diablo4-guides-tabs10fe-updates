@@ -1,0 +1,2275 @@
+{
+  "schemaVersion": 2,
+  "channel": "tabs10fe-stable",
+  "appVersion": "1.0.67",
+  "versionCode": 10067,
+  "guideVersion": "1.47",
+  "patchVersion": "3.1.1",
+  "packageName": "com.marc.diablo4guides.tabs10feapp01",
+  "releaseDateUtc": "2026-07-21T14:30:29Z",
+  "worldBossAnchorUtc": "2026-07-18T18:30:00Z",
+  "downloadUrl": "https://github.com/roterweltmeister3011-droid/diablo4-guides-tabs10fe-updates/releases/download/v1.0.67/Diablo_IV_Guides_Tab_S10_FE_v1.0.67_Strict_Tablet_Update_Channel_DE_EN.apk",
+  "releasePageUrl": "https://github.com/roterweltmeister3011-droid/diablo4-guides-tabs10fe-updates/releases/tag/v1.0.67",
+  "apkFileName": "Diablo_IV_Guides_Tab_S10_FE_v1.0.67_Strict_Tablet_Update_Channel_DE_EN.apk",
+  "minAndroid": 26,
+  "targetAndroid": 35,
+  "communityScheduleUrl": "https://helltides.com/api/schedule",
+  "notesDe": "Eigenständige S10-FE-Version 1.0.67. Updateprüfung, Tierliste und Maxroll-Katalog verwenden ausschließlich das Tablet-Repository und die neue versionierte Manifestdatei.",
+  "notesEn": "Standalone S10 FE version 1.0.67. App updates, tier lists, and the Maxroll catalog use only the tablet repository and the new versioned manifest file.",
+  "patchNotesRevision": "3.1.1-2026-07-14",
+  "seasonNotesRevision": "14-2026-06-30",
+  "patchTitleDe": "Patch 3.1.1 · 14.07.2026",
+  "patchTitleEn": "Patch 3.1.1 · July 14, 2026",
+  "patchNotesDe": [
+    "In Temis wurde eine saisonale Ansehenstafel hinzugefügt.",
+    "Blutzollkammern gewähren in hohen Qualstufen jetzt immer mindestens einen überlegenen Unterschlupfschlüssel.",
+    "Die Verderbte Seelenernterin lässt jetzt bis zu zwei Fragmente des Wahnsinns fallen, abhängig von der Qualstufe.",
+    "Die Kosten für das Rezept „Auf mythisch aufwerten“ im Horadrimwürfel wurden von fünf auf vier Fragmente des Wahnsinns gesenkt.",
+    "Weitere Fehlerbehebungen betreffen Klassen, Gegenstände, die Karte, den Turm und die Stabilität."
+  ],
+  "patchNotesEn": [
+    "A Seasonal Reputation Board was added in Temis.",
+    "Deathtoll Chambers now always grant at least one Superior Lair Key at high Torment tiers.",
+    "The Corrupted Soul Reaper can now drop up to two Pandemonium Fragments, scaling with Torment tier.",
+    "The Horadric Cube recipe “Upgrade to Mythic” now costs four Pandemonium Fragments instead of five.",
+    "Additional fixes cover classes, items, the map, the Tower, and stability."
+  ],
+  "seasonNumber": "14",
+  "seasonNameDe": "Saison des erwachten Todes",
+  "seasonNameEn": "Season of Death Awakening",
+  "seasonNotesDe": [
+    "Risse des Pandämoniums erscheinen in ganz Sanktuario und besonders häufig während Höllenfluten.",
+    "Blutzollkammern und die Verderbte Seelenernterin liefern Schlüssel, Beute und Fragmente des Wahnsinns.",
+    "Mythische einzigartige Gegenstände 3.0, der Turm mit Bestenlisten und Solo Self-Found sind aktiv.",
+    "Kriegspläne können innerhalb einer Gruppe synchronisiert werden.",
+    "Die Saison begann am 30. Juni 2026."
+  ],
+  "seasonNotesEn": [
+    "Pandemonium Ruptures appear throughout Sanctuary and are especially common during Helltides.",
+    "Deathtoll Chambers and the Corrupted Soul Reaper provide keys, loot, and Pandemonium Fragments.",
+    "Mythic Uniques 3.0, the Tower with Leaderboards, and Solo Self-Found are active.",
+    "War Plans can be synchronized within a party.",
+    "The season began on June 30, 2026."
+  ],
+  "notesUpdatedUtc": "2026-07-21T06:32:41Z",
+  "helltideRegionValidUntilUtc": "",
+  "contentSources": [
+    {
+      "name": "GameStar Black Edition Diablo 4 – Lord of Hatred 03/2026",
+      "usage": "Factual locations, puzzle logic, and crafting reference data were restructured and independently worded.",
+      "pages": "15–25, 50–59, poster map"
+    },
+    {
+      "name": "Maxroll Diablo IV linked catalog",
+      "usage": "Searchable in-app index with direct links to Maxroll build guides, resources, farming/material references, mechanics, and tier lists. Full Maxroll article text is not copied.",
+      "scope": "110 build links, 25 resource links, 6 live category gateways"
+    }
+  ],
+  "deviceOptimizations": [
+    "Samsung Galaxy Tab S10 FE 10.9-inch",
+    "2304 × 1440 WUXGA+",
+    "portrait",
+    "landscape",
+    "One UI taskbar safe-area reserve",
+    "visualViewport resize handling",
+    "multi-window responsive reflow",
+    "S Pen and touch target sizing",
+    "isolated map panning",
+    "Full-app Sanctuary blood theme",
+    "Blood-red tier-list refresh control",
+    "High-contrast blood-themed guide surfaces"
+  ],
+  "buildSourcePolicy": {
+    "provider": "Maxroll",
+    "allowedHost": "maxroll.gg",
+    "httpsOnly": true,
+    "catalogBuildEntries": 110,
+    "currentEndgameSnapshotEntries": 65,
+    "levelingEntries": 32,
+    "resourceGuideEntries": 25,
+    "liveCategoryGateways": 6,
+    "linksPerEntry": 1,
+    "rankingNavigation": "internal-guide-only",
+    "currentInternalRankingEntries": 78
+  },
+  "maxrollCatalog": {
+    "snapshotUtc": "2026-07-19T20:30:00Z",
+    "provider": "Maxroll",
+    "builds": [
+      {
+        "id": "double-swing-barbarian-leveling-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Double Swing",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/double-swing-barbarian-leveling-guide"
+      },
+      {
+        "id": "hammer-of-the-ancients-barbarian-leveling-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Hammer of the Ancients",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/hammer-of-the-ancients-barbarian-leveling-guide"
+      },
+      {
+        "id": "upheaval-barbarian-leveling-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Upheaval",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/upheaval-barbarian-leveling-guide"
+      },
+      {
+        "id": "whirlwind-barbarian-leveling-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Whirlwind",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/whirlwind-barbarian-leveling-guide"
+      },
+      {
+        "id": "charge-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Charge",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/charge-barbarian-guide"
+      },
+      {
+        "id": "death-blow-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Death Blow",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/death-blow-barbarian-guide"
+      },
+      {
+        "id": "double-swing-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Double Swing",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/double-swing-barbarian-guide"
+      },
+      {
+        "id": "frenzy-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Frenzy",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/frenzy-barbarian-guide"
+      },
+      {
+        "id": "hammer-of-the-ancients-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Hammer of the Ancients",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/hammer-of-the-ancients-barbarian-guide"
+      },
+      {
+        "id": "leapquake-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Leapquake",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/leapquake-barbarian-guide"
+      },
+      {
+        "id": "lunging-strike-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Lunging Strike",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/lunging-strike-barbarian-guide"
+      },
+      {
+        "id": "mighty-maelstrom-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Mighty Maelstrom",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/mighty-maelstrom-barbarian-guide"
+      },
+      {
+        "id": "mighty-throw-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Mighty Throw",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/mighty-throw-barbarian-guide"
+      },
+      {
+        "id": "minion-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Minion",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/minion-barbarian-guide"
+      },
+      {
+        "id": "rend-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Rend",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/rend-barbarian-guide"
+      },
+      {
+        "id": "whirlwind-barbarian-guide",
+        "class": "barbarian",
+        "classDe": "Barbar",
+        "classEn": "Barbarian",
+        "title": "Whirlwind",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/whirlwind-barbarian-guide"
+      },
+      {
+        "id": "companion-druid-leveling-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Companion",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/companion-druid-leveling-guide"
+      },
+      {
+        "id": "lightning-storm-druid-leveling-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Lightning Storm",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/lightning-storm-druid-leveling-guide"
+      },
+      {
+        "id": "pulverize-druid-leveling-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Pulverize",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/pulverize-druid-leveling-guide"
+      },
+      {
+        "id": "shred-druid-leveling-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Shred",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/shred-druid-leveling-guide"
+      },
+      {
+        "id": "boulder-druid-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Boulder",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/boulder-druid-guide"
+      },
+      {
+        "id": "cataclysm-druid-build-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Cataclysm",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/cataclysm-druid-build-guide"
+      },
+      {
+        "id": "companion-druid-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Companion",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/companion-druid-guide"
+      },
+      {
+        "id": "earth-spike-druid-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Earth Spike",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/earth-spike-druid-guide"
+      },
+      {
+        "id": "lightning-storm-druid-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Lightning Storm",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/lightning-storm-druid-guide"
+      },
+      {
+        "id": "pulverize-druid-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Pulverize",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/pulverize-druid-guide"
+      },
+      {
+        "id": "shred-druid-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Shred",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/shred-druid-guide"
+      },
+      {
+        "id": "trampleslide-druid-guide",
+        "class": "druid",
+        "classDe": "Druide",
+        "classEn": "Druid",
+        "title": "Trampleslide",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/trampleslide-druid-guide"
+      },
+      {
+        "id": "blood-lance-necromancer-leveling-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Blood Lance",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blood-lance-necromancer-leveling-guide"
+      },
+      {
+        "id": "blood-surge-necromancer-leveling-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Blood Surge",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blood-surge-necromancer-leveling-guide"
+      },
+      {
+        "id": "bone-spear-necromancer-leveling-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Bone Spear",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/bone-spear-necromancer-leveling-guide"
+      },
+      {
+        "id": "minion-necromancer-leveling-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Minion",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/minion-necromancer-leveling-guide"
+      },
+      {
+        "id": "army-of-the-dead-necromancer-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Army of the Dead",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/army-of-the-dead-necromancer-guide"
+      },
+      {
+        "id": "blight-necromancer-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Blight",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blight-necromancer-guide"
+      },
+      {
+        "id": "blood-lance-necromancer-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Blood Lance",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blood-lance-necromancer-guide"
+      },
+      {
+        "id": "blood-surge-necromancer-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Blood Surge",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blood-surge-necromancer-guide"
+      },
+      {
+        "id": "blood-wave-necromancer-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Blood Wave",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blood-wave-necromancer-guide"
+      },
+      {
+        "id": "bone-spirit-necromancer-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Bone Spirit",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide"
+      },
+      {
+        "id": "golem-necromancer-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Golem",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/golem-necromancer-guide"
+      },
+      {
+        "id": "minion-necromancer-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Minion",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/minion-necromancer-guide"
+      },
+      {
+        "id": "sever-necromancer-endgame-guide",
+        "class": "necromancer",
+        "classDe": "Totenbeschwörer",
+        "classEn": "Necromancer",
+        "title": "Sever",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/sever-necromancer-endgame-guide"
+      },
+      {
+        "id": "blessed-hammer-paladin-leveling-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Blessed Hammer",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blessed-hammer-paladin-leveling-guide"
+      },
+      {
+        "id": "divine-lance-paladin-leveling-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Divine Lance",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/divine-lance-paladin-leveling-guide"
+      },
+      {
+        "id": "shield-of-retribution-paladin-leveling-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Shield of Retribution",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/shield-of-retribution-paladin-leveling-guide"
+      },
+      {
+        "id": "zeal-paladin-leveling-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Zeal",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/zeal-paladin-leveling-guide"
+      },
+      {
+        "id": "auradin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Auradin",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/auradin-guide"
+      },
+      {
+        "id": "blessed-hammer-paladin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Blessed Hammer",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blessed-hammer-paladin-guide"
+      },
+      {
+        "id": "clash-paladin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Clash",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/clash-paladin-guide"
+      },
+      {
+        "id": "divine-lance-paladin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Divine Lance",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/divine-lance-paladin-guide"
+      },
+      {
+        "id": "judgement-paladin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Judgement",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/judgement-paladin-guide"
+      },
+      {
+        "id": "shield-of-retribution-paladin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Shield of Retribution",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/shield-of-retribution-paladin-guide"
+      },
+      {
+        "id": "support-paladin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Support",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/support-paladin-guide"
+      },
+      {
+        "id": "wing-strikes-paladin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Wing Strikes",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/wing-strikes-paladin-guide"
+      },
+      {
+        "id": "zeal-paladin-guide",
+        "class": "paladin",
+        "classDe": "Paladin",
+        "classEn": "Paladin",
+        "title": "Zeal",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/zeal-paladin-guide"
+      },
+      {
+        "id": "barrage-rogue-leveling-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Barrage",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/barrage-rogue-leveling-guide"
+      },
+      {
+        "id": "dance-of-knives-rogue-leveling-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Dance of Knives",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/dance-of-knives-rogue-leveling-guide"
+      },
+      {
+        "id": "flurry-rogue-leveling-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Flurry",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/flurry-rogue-leveling-guide"
+      },
+      {
+        "id": "rapid-fire-rogue-leveling-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Rapid Fire",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/rapid-fire-rogue-leveling-guide"
+      },
+      {
+        "id": "arrow-storms-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Arrow Storms",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/arrow-storms-rogue-guide"
+      },
+      {
+        "id": "barrage-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Barrage",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/barrage-rogue-guide"
+      },
+      {
+        "id": "dance-of-knives-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Dance of Knives",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/dance-of-knives-rogue-guide"
+      },
+      {
+        "id": "dash-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Dash",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/dash-rogue-guide"
+      },
+      {
+        "id": "death-trap-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Death Trap",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/death-trap-rogue-guide"
+      },
+      {
+        "id": "flurry-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Flurry",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/flurry-rogue-guide"
+      },
+      {
+        "id": "grenade-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Grenade",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/grenade-rogue-guide"
+      },
+      {
+        "id": "heartseeker-rogue-specialized-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Heartseeker",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/heartseeker-rogue-specialized-guide"
+      },
+      {
+        "id": "penetrating-shot-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Penetrating Shot",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/penetrating-shot-rogue-guide"
+      },
+      {
+        "id": "rain-of-arrows-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Rain of Arrows",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/rain-of-arrows-rogue-guide"
+      },
+      {
+        "id": "rapid-fire-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Rapid Fire",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/rapid-fire-rogue-guide"
+      },
+      {
+        "id": "twisting-blades-rogue-guide",
+        "class": "rogue",
+        "classDe": "Jäger",
+        "classEn": "Rogue",
+        "title": "Twisting Blades",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/twisting-blades-rogue-guide"
+      },
+      {
+        "id": "blizzard-sorcerer-leveling-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Blizzard",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blizzard-sorcerer-leveling-guide"
+      },
+      {
+        "id": "charged-bolts-sorcerer-leveling-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Charged Bolts",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/charged-bolts-sorcerer-leveling-guide"
+      },
+      {
+        "id": "fireball-sorcerer-leveling-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Fireball",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/fireball-sorcerer-leveling-guide"
+      },
+      {
+        "id": "firewall-sorcerer-leveling-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Firewall",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/firewall-sorcerer-leveling-guide"
+      },
+      {
+        "id": "ball-lightning-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Ball Lightning",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/ball-lightning-sorcerer-guide"
+      },
+      {
+        "id": "blizzard-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Blizzard",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blizzard-sorcerer-guide"
+      },
+      {
+        "id": "chain-lightning-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Chain Lightning",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/chain-lightning-sorcerer-guide"
+      },
+      {
+        "id": "charged-bolts-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Charged Bolts",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/charged-bolts-sorcerer-guide"
+      },
+      {
+        "id": "crackling-energy-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Crackling Energy",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/crackling-energy-sorcerer-guide"
+      },
+      {
+        "id": "fireball-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Fireball",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/fireball-sorcerer-guide"
+      },
+      {
+        "id": "firewall-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Firewall",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/firewall-sorcerer-guide"
+      },
+      {
+        "id": "frozen-orb-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Frozen Orb",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/frozen-orb-sorcerer-guide"
+      },
+      {
+        "id": "hydra-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Hydra",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/hydra-sorcerer-guide"
+      },
+      {
+        "id": "ice-shards-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Ice Shards",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/ice-shards-sorcerer-guide"
+      },
+      {
+        "id": "meteor-sorcerer-guide",
+        "class": "sorcerer",
+        "classDe": "Zauberer",
+        "classEn": "Sorcerer",
+        "title": "Meteor",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/meteor-sorcerer-guide"
+      },
+      {
+        "id": "crushing-hand-spiritborn-leveling-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Crushing Hand",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/crushing-hand-spiritborn-leveling-guide"
+      },
+      {
+        "id": "payback-spiritborn-leveling-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Payback",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/payback-spiritborn-leveling-guide"
+      },
+      {
+        "id": "quill-volley-spiritborn-leveling-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Quill Volley",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/quill-volley-spiritborn-leveling-guide"
+      },
+      {
+        "id": "stinger-spiritborn-leveling-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Stinger",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/stinger-spiritborn-leveling-guide"
+      },
+      {
+        "id": "crushing-hand-spiritborn-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Crushing Hand",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/crushing-hand-spiritborn-guide"
+      },
+      {
+        "id": "evade-spiritborn-build-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Evade",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/evade-spiritborn-build-guide"
+      },
+      {
+        "id": "evade-counterswarm-spiritborn-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Evade Counterswarm",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/evade-counterswarm-spiritborn-guide"
+      },
+      {
+        "id": "gorilla-thorns-spiritborn-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Gorilla Thorns",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/gorilla-thorns-spiritborn-guide"
+      },
+      {
+        "id": "payback-spiritborn-build-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Payback",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/payback-spiritborn-build-guide"
+      },
+      {
+        "id": "quill-volley-spiritborn-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Quill Volley",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/quill-volley-spiritborn-guide"
+      },
+      {
+        "id": "rake-spiritborn-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Rake",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/rake-spiritborn-guide"
+      },
+      {
+        "id": "stinger-spiritborn-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Stinger",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/stinger-spiritborn-guide"
+      },
+      {
+        "id": "touch-of-death-spiritborn-guide",
+        "class": "spiritborn",
+        "classDe": "Geistgeborener",
+        "classEn": "Spiritborn",
+        "title": "Touch of Death",
+        "type": "endgame",
+        "currentSnapshot": false,
+        "url": "https://maxroll.gg/d4/build-guides/touch-of-death-spiritborn-guide"
+      },
+      {
+        "id": "blazing-scream-warlock-leveling-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Blazing Scream",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blazing-scream-warlock-leveling-guide"
+      },
+      {
+        "id": "dread-claws-warlock-leveling-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Dread Claws",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/dread-claws-warlock-leveling-guide"
+      },
+      {
+        "id": "hell-fracture-warlock-leveling-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Hell Fracture",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/hell-fracture-warlock-leveling-guide"
+      },
+      {
+        "id": "minion-warlock-leveling-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Minion",
+        "type": "leveling",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/minion-warlock-leveling-guide"
+      },
+      {
+        "id": "apocalypse-warlock-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Apocalypse",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/apocalypse-warlock-guide"
+      },
+      {
+        "id": "blazing-scream-warlock-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Blazing Scream",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/blazing-scream-warlock-guide"
+      },
+      {
+        "id": "dread-claws-warlock-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Dread Claws",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/dread-claws-warlock-guide"
+      },
+      {
+        "id": "eviscerate-warlock-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Eviscerate",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/eviscerate-warlock-guide"
+      },
+      {
+        "id": "hell-fracture-warlock-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Hell Fracture",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/hell-fracture-warlock-guide"
+      },
+      {
+        "id": "lunatic-warlock-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Lunatic",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/lunatic-warlock-guide"
+      },
+      {
+        "id": "minion-warlock-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Minion",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/minion-warlock-guide"
+      },
+      {
+        "id": "tyrants-grasp-warlock-guide",
+        "class": "warlock",
+        "classDe": "Hexenmeister",
+        "classEn": "Warlock",
+        "title": "Tyrant's Grasp",
+        "type": "endgame",
+        "currentSnapshot": true,
+        "url": "https://maxroll.gg/d4/build-guides/tyrants-grasp-warlock-guide"
+      }
+    ],
+    "guides": [
+      {
+        "id": "getting-started",
+        "category": "overview",
+        "titleDe": "Erste Schritte: komplette Übersicht",
+        "titleEn": "Getting Started: Complete Overview",
+        "descriptionDe": "Zentraler Einstieg in Maxrolls Diablo-IV-Grundlagen und Systeme.",
+        "descriptionEn": "Central entry point for Maxroll Diablo IV fundamentals and systems.",
+        "url": "https://maxroll.gg/d4/getting-started"
+      },
+      {
+        "id": "horadric-cube",
+        "category": "crafting",
+        "titleDe": "Horadrimwürfel",
+        "titleEn": "Horadric Cube",
+        "descriptionDe": "Rezepte, Abstimmungsprismen, Transfiguration, Talismane und Crafting-Abläufe.",
+        "descriptionEn": "Recipes, Tuning Prisms, Transfiguration, Talismans, and crafting workflows.",
+        "url": "https://maxroll.gg/d4/resources/horadric-cube"
+      },
+      {
+        "id": "crafting-cheat-sheet",
+        "category": "crafting",
+        "titleDe": "Crafting-Spickzettel",
+        "titleEn": "Crafting Cheat Sheet",
+        "descriptionDe": "Kompakte Übersicht zu Herstellung, Aufwertung und benötigten Materialien.",
+        "descriptionEn": "Compact overview of crafting, upgrades, and required materials.",
+        "url": "https://maxroll.gg/d4/resources/crafting-cheat-sheet"
+      },
+      {
+        "id": "occultist-aspects",
+        "category": "aspects",
+        "titleDe": "Okkultist, Verzauberung und legendäre Aspekte",
+        "titleEn": "Occultist, Enchanting & Legendary Aspects",
+        "descriptionDe": "Aspekte, Kodex, Prägen und Verzauberung beim Okkultisten.",
+        "descriptionEn": "Aspects, Codex, imprinting, and enchanting at the Occultist.",
+        "url": "https://maxroll.gg/d4/resources/occultist-enchanting-legendary-aspects"
+      },
+      {
+        "id": "legendary-aspects",
+        "category": "aspects",
+        "titleDe": "Legendäre Aspekte – Gesamtliste",
+        "titleEn": "Legendary Aspects – Full List",
+        "descriptionDe": "Maxrolls Nachschlagewerk für legendäre Aspekte und Fundquellen.",
+        "descriptionEn": "Maxroll reference for Legendary Aspects and acquisition sources.",
+        "url": "https://maxroll.gg/d4/resources/legendary-aspects"
+      },
+      {
+        "id": "codex-of-power",
+        "category": "aspects",
+        "titleDe": "Kodex der Macht",
+        "titleEn": "Codex of Power",
+        "descriptionDe": "Direkter Maxroll-Kodex für freischaltbare Macht-Aspekte.",
+        "descriptionEn": "Direct Maxroll Codex for unlockable powers.",
+        "url": "https://maxroll.gg/d4/wiki/codex-of-power"
+      },
+      {
+        "id": "general-farming",
+        "category": "farming",
+        "titleDe": "Allgemeiner Farmguide und Materialliste",
+        "titleEn": "General Farming Guide & Material List",
+        "descriptionDe": "Farmwege für Ausrüstung, Währungen, Pflanzen, Handwerks- und Bossmaterialien.",
+        "descriptionEn": "Farming routes for gear, currencies, herbs, crafting, and boss materials.",
+        "url": "https://maxroll.gg/d4/resources/general-farming-guide"
+      },
+      {
+        "id": "boss-loot",
+        "category": "farming",
+        "titleDe": "Boss-Beutetabelle und gezieltes Farmen",
+        "titleEn": "Boss Loot Table & Target Farming",
+        "descriptionDe": "Welcher Boss welche einzigartigen und mythischen Gegenstände fallen lässt.",
+        "descriptionEn": "Which bosses drop specific Unique and Mythic items.",
+        "url": "https://maxroll.gg/d4/resources/boss-loot-table-cheat-sheet"
+      },
+      {
+        "id": "monster-families",
+        "category": "farming",
+        "titleDe": "Monsterfamilien und gezieltes Farmen",
+        "titleEn": "Monster Families & Target Farming",
+        "descriptionDe": "Beutearten und geeignete Gegnerfamilien für gezielte Farmrouten.",
+        "descriptionEn": "Loot types and monster families for targeted farming routes.",
+        "url": "https://maxroll.gg/d4/resources/monster-families"
+      },
+      {
+        "id": "nightmare-dungeons",
+        "category": "farming",
+        "titleDe": "Alptraumdungeons",
+        "titleEn": "Nightmare Dungeons",
+        "descriptionDe": "Mechanik, Siegel, Belohnungen, Obduzit und effiziente Routen.",
+        "descriptionEn": "Mechanics, Sigils, rewards, Obducite, and efficient routes.",
+        "url": "https://maxroll.gg/d4/resources/nightmare-dungeons"
+      },
+      {
+        "id": "experience",
+        "category": "farming",
+        "titleDe": "Erfahrung und Level-Farmwege",
+        "titleEn": "Experience & Leveling Routes",
+        "descriptionDe": "Erfahrungsquellen, Gruppenboni und effizientes Leveln.",
+        "descriptionEn": "Experience sources, party bonuses, and efficient leveling.",
+        "url": "https://maxroll.gg/d4/resources/experience"
+      },
+      {
+        "id": "sanctification",
+        "category": "crafting",
+        "titleDe": "Heiligung",
+        "titleEn": "Sanctification Guide",
+        "descriptionDe": "Mögliche Heiligungseffekte und Einsatz im Endgame.",
+        "descriptionEn": "Possible Sanctification effects and endgame use.",
+        "url": "https://maxroll.gg/d4/resources/sanctification-guide"
+      },
+      {
+        "id": "tempering",
+        "category": "crafting",
+        "titleDe": "Temperierung",
+        "titleEn": "Tempering Guide",
+        "descriptionDe": "Temperierungsrezepte, Kategorien und optimale Reihenfolge.",
+        "descriptionEn": "Tempering recipes, categories, and optimal order.",
+        "url": "https://maxroll.gg/d4/resources/tempering-guide"
+      },
+      {
+        "id": "damage",
+        "category": "mechanics",
+        "titleDe": "Ausführlicher Schadensguide",
+        "titleEn": "In-Depth Damage Guide",
+        "descriptionDe": "Additive und multiplikative Werte, Schadensformel und Skalierung.",
+        "descriptionEn": "Additive and multiplicative stats, damage formula, and scaling.",
+        "url": "https://maxroll.gg/d4/resources/in-depth-damage-guide"
+      },
+      {
+        "id": "attack-speed",
+        "category": "mechanics",
+        "titleDe": "Angriffstempo-Mechaniken",
+        "titleEn": "Attack Speed Mechanics",
+        "descriptionDe": "Kategorien, Obergrenzen und Breakpoints für Angriffstempo.",
+        "descriptionEn": "Categories, caps, and breakpoints for Attack Speed.",
+        "url": "https://maxroll.gg/d4/resources/attack-speed-mechanics"
+      },
+      {
+        "id": "difficulty",
+        "category": "overview",
+        "titleDe": "Schwierigkeits- und Qualstufen",
+        "titleEn": "Difficulty Overview",
+        "descriptionDe": "Freischaltung, Skalierung und Belohnungen der Schwierigkeitsstufen.",
+        "descriptionEn": "Unlocks, scaling, and rewards for difficulty tiers.",
+        "url": "https://maxroll.gg/d4/resources/difficulty-overview"
+      },
+      {
+        "id": "altar-lilith",
+        "category": "map",
+        "titleDe": "Altäre von Lilith",
+        "titleEn": "Altars of Lilith",
+        "descriptionDe": "Fundorte und dauerhafte Boni der Altäre.",
+        "descriptionEn": "Locations and permanent bonuses from Altars.",
+        "url": "https://maxroll.gg/d4/resources/altar-of-lilith"
+      },
+      {
+        "id": "season-guide",
+        "category": "season",
+        "titleDe": "Aktueller Saisonguide",
+        "titleEn": "Current Season Guide",
+        "descriptionDe": "Saisonmechaniken, Fortschritt und Belohnungen.",
+        "descriptionEn": "Season mechanics, progression, and rewards.",
+        "url": "https://maxroll.gg/d4/resources/season-guide"
+      },
+      {
+        "id": "season-journey",
+        "category": "season",
+        "titleDe": "Saisonreise",
+        "titleEn": "Season Journey",
+        "descriptionDe": "Kapitel, Ziele und freischaltbare Belohnungen.",
+        "descriptionEn": "Chapters, objectives, and unlockable rewards.",
+        "url": "https://maxroll.gg/d4/resources/season-journey"
+      },
+      {
+        "id": "trading",
+        "category": "overview",
+        "titleDe": "Handel",
+        "titleEn": "Trading",
+        "descriptionDe": "Handelsregeln, handelbare Gegenstände und Einschränkungen.",
+        "descriptionEn": "Trading rules, tradable items, and restrictions.",
+        "url": "https://maxroll.gg/d4/resources/trading"
+      },
+      {
+        "id": "barbarian-arsenal",
+        "category": "class",
+        "titleDe": "Barbaren-Arsenalsystem",
+        "titleEn": "Barbarian Arsenal System",
+        "descriptionDe": "Waffenzuweisung, Expertise und Klassenmechanik.",
+        "descriptionEn": "Weapon assignment, Expertise, and class mechanic.",
+        "url": "https://maxroll.gg/d4/resources/barbarian-arsenal-system"
+      },
+      {
+        "id": "barbarian-compendium",
+        "category": "class",
+        "titleDe": "Barbaren-Kompendium",
+        "titleEn": "Barbarian Compendium",
+        "descriptionDe": "Vertieftes Klassenwissen und Interaktionen für den Barbaren.",
+        "descriptionEn": "Advanced class knowledge and interactions for Barbarian.",
+        "url": "https://maxroll.gg/d4/resources/barbarian-compendium"
+      },
+      {
+        "id": "endgame-tier",
+        "category": "tierlist",
+        "titleDe": "Endgame-Build-Tierliste",
+        "titleEn": "Endgame Build Tier List",
+        "descriptionDe": "Vergleich der aktuellen Endgame-Builds.",
+        "descriptionEn": "Comparison of current endgame builds.",
+        "url": "https://maxroll.gg/d4/tierlists/endgame-tier-list"
+      },
+      {
+        "id": "push-tier",
+        "category": "tierlist",
+        "titleDe": "Push-Tierliste",
+        "titleEn": "Push Tier List",
+        "descriptionDe": "Builds für höchste Gruben- und Endgame-Stufen.",
+        "descriptionEn": "Builds for the highest Pit and endgame tiers.",
+        "url": "https://maxroll.gg/d4/tierlists/push-tier-list"
+      },
+      {
+        "id": "nmd-tier",
+        "category": "tierlist",
+        "titleDe": "Alptraumdungeon-Tierlisten",
+        "titleEn": "Nightmare Dungeon Tier Lists",
+        "descriptionDe": "Bewertung von Dungeons für Erfahrung, Glyphen und Geschwindigkeit.",
+        "descriptionEn": "Dungeon rankings for experience, Glyphs, and speed.",
+        "url": "https://maxroll.gg/d4/tierlists/nightmare-dungeon-tier-lists"
+      }
+    ],
+    "gateways": [
+      {
+        "id": "all-builds",
+        "titleDe": "Alle Maxroll Build-Guides live",
+        "titleEn": "All Maxroll Build Guides Live",
+        "url": "https://maxroll.gg/d4/build-guides"
+      },
+      {
+        "id": "all-resources",
+        "titleDe": "Alle Maxroll Ressourcen live",
+        "titleEn": "All Maxroll Resources Live",
+        "url": "https://maxroll.gg/d4/resources"
+      },
+      {
+        "id": "all-tierlists",
+        "titleDe": "Alle Maxroll Tierlisten live",
+        "titleEn": "All Maxroll Tier Lists Live",
+        "url": "https://maxroll.gg/d4/tierlists"
+      },
+      {
+        "id": "planner",
+        "titleDe": "Maxroll Build-Planer",
+        "titleEn": "Maxroll Build Planner",
+        "url": "https://maxroll.gg/d4/planner/"
+      },
+      {
+        "id": "map",
+        "titleDe": "Maxroll Weltkarte",
+        "titleEn": "Maxroll World Map",
+        "url": "https://maxroll.gg/d4/map"
+      },
+      {
+        "id": "home",
+        "titleDe": "Maxroll Diablo IV Startseite",
+        "titleEn": "Maxroll Diablo IV Home",
+        "url": "https://maxroll.gg/d4"
+      }
+    ]
+  },
+  "sha256": "737bdc77a31d9ec75fbd3b2b92214724c61c8273bd8cfe2faedc156ca29775de",
+  "apkSizeBytes": 1830817,
+  "helltideMapEnabled": false,
+  "helltideRegions": [],
+  "helltideRegionValidFromUtc": "",
+  "helltideMapRevision": "disabled-until-verified",
+  "helltideMapPolicy": {
+    "mode": "manifest-only",
+    "supportedRegions": [
+      "fractured_peaks",
+      "scosglen",
+      "dry_steppes",
+      "kehjistan",
+      "hawezar",
+      "nahantu",
+      "skovos"
+    ],
+    "requiredFields": [
+      "helltideMapEnabled",
+      "helltideRegions",
+      "helltideRegionValidUntilUtc"
+    ],
+    "optionalFields": [
+      "helltideRegionValidFromUtc",
+      "helltideMapRevision"
+    ],
+    "failClosed": true,
+    "descriptionDe": "Nur bestätigte und zeitlich gültige Regionen werden auf der Karte angezeigt. Ohne gültige Daten bleibt die Höllenflut-Position ausgeblendet.",
+    "descriptionEn": "Only confirmed regions within their validity window are shown on the map. Without valid data, the Helltide position remains hidden."
+  },
+  "fileSizeBytes": 1831616,
+  "buildTierRanking": {
+    "schemaVersion": 2,
+    "provider": "Maxroll",
+    "sourceUrl": "https://maxroll.gg/d4/tierlists/endgame-tier-list",
+    "sourceMirrorNoteDe": "Maxroll-Saison-14-Rangfolge, mit Klassenlisten gegengeprüft; angezeigt werden nur Builds mit einem internen APK-Guide.",
+    "sourceMirrorNoteEn": "Maxroll Season 14 ordering, cross-checked against class lists; only builds with an internal APK guide are shown.",
+    "seasonNumber": "14",
+    "seasonNameDe": "Saison des erwachten Todes",
+    "seasonNameEn": "Season of Death Awakening",
+    "patchVersion": "3.1.1",
+    "updatedUtc": "2026-07-21T10:45:00Z",
+    "categories": [
+      {
+        "id": "endgame",
+        "titleDe": "Endgame – Maxroll Gesamtwertung",
+        "titleEn": "Endgame – Maxroll Overall",
+        "tiers": {
+          "S": [
+            {
+              "classId": "barbarian",
+              "guideId": "whirlwind",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Whirlwind",
+              "titleDe": "Wirbelwind",
+              "titleEn": "Whirlwind"
+            },
+            {
+              "classId": "barbarian",
+              "guideId": "mighty-throw",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Mighty Throw",
+              "titleDe": "Mächtiger Wurf",
+              "titleEn": "Mighty Throw"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "death-trap",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Death Trap",
+              "titleDe": "Todesfalle",
+              "titleEn": "Death Trap"
+            }
+          ],
+          "A": [
+            {
+              "classId": "barbarian",
+              "guideId": "rend",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Rend",
+              "titleDe": "Zerfleischen",
+              "titleEn": "Rend"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "heartseeker",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Heartseeker",
+              "titleDe": "Herzsucher",
+              "titleEn": "Heartseeker"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "penetrating-shot",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Penetrating Shot",
+              "titleDe": "Durchschlagender Schuss",
+              "titleEn": "Penetrating Shot"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "rain-arrows",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Rain of Arrows",
+              "titleDe": "Pfeilhagel",
+              "titleEn": "Rain of Arrows"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "dance-knives",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Dance of Knives",
+              "titleDe": "Tanz der Messer",
+              "titleEn": "Dance of Knives"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "rapid-fire",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Rapid Fire",
+              "titleDe": "Schnellfeuer",
+              "titleEn": "Rapid Fire"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "flurry",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Flurry",
+              "titleDe": "Klingenwirbel",
+              "titleEn": "Flurry"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "blood-wave",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Blood Wave",
+              "titleDe": "Blutwelle",
+              "titleEn": "Blood Wave"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "bone-spirit",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Bone Spirit",
+              "titleDe": "Knochengeist",
+              "titleEn": "Bone Spirit"
+            },
+            {
+              "classId": "spiritborn",
+              "guideId": "infinite-evade",
+              "classDe": "Geistgeborener",
+              "classEn": "Spiritborn",
+              "title": "Evade Counterswarm",
+              "titleDe": "Ausweichen-Gegenschwarm",
+              "titleEn": "Evade Counterswarm"
+            },
+            {
+              "classId": "sorcerer",
+              "guideId": "firewall",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Firewall",
+              "titleDe": "Feuerwand",
+              "titleEn": "Firewall"
+            }
+          ],
+          "B": [
+            {
+              "classId": "barbarian",
+              "guideId": "death-blow",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Death Blow",
+              "titleDe": "Todesstoß",
+              "titleEn": "Death Blow"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "naz-mages",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Minion",
+              "titleDe": "Diener",
+              "titleEn": "Minion"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "reaper-summoner",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Golem",
+              "titleDe": "Golem",
+              "titleEn": "Golem"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "cold-sever",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Sever",
+              "titleDe": "Abtrennen",
+              "titleEn": "Sever"
+            },
+            {
+              "classId": "spiritborn",
+              "guideId": "beat-strike",
+              "classDe": "Geistgeborener",
+              "classEn": "Spiritborn",
+              "title": "Stinger",
+              "titleDe": "Stachel",
+              "titleEn": "Stinger"
+            },
+            {
+              "classId": "spiritborn",
+              "guideId": "withering-fist",
+              "classDe": "Geistgeborener",
+              "classEn": "Spiritborn",
+              "title": "Crushing Hand",
+              "titleDe": "Zermalmende Hand",
+              "titleEn": "Crushing Hand"
+            },
+            {
+              "classId": "sorcerer",
+              "guideId": "ball-lightning",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Ball Lightning",
+              "titleDe": "Kugelblitz",
+              "titleEn": "Ball Lightning"
+            },
+            {
+              "classId": "sorcerer",
+              "guideId": "static-blizzard",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Blizzard",
+              "titleDe": "Blizzard",
+              "titleEn": "Blizzard"
+            },
+            {
+              "classId": "sorcerer",
+              "guideId": "charged-bolts",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Charged Bolts",
+              "titleDe": "Comboblitze",
+              "titleEn": "Charged Bolts"
+            },
+            {
+              "classId": "druid",
+              "guideId": "cataclysm",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Cataclysm",
+              "titleDe": "Kataklysmus",
+              "titleEn": "Cataclysm"
+            },
+            {
+              "classId": "druid",
+              "guideId": "storm-shred",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Shred",
+              "titleDe": "Zerfetzen",
+              "titleEn": "Shred"
+            },
+            {
+              "classId": "druid",
+              "guideId": "lightning-storm",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Lightning Storm",
+              "titleDe": "Gewittersturm",
+              "titleEn": "Lightning Storm"
+            },
+            {
+              "classId": "druid",
+              "guideId": "boulder",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Boulder",
+              "titleDe": "Felsbrocken",
+              "titleEn": "Boulder"
+            },
+            {
+              "classId": "paladin",
+              "guideId": "hammer-richter",
+              "classDe": "Paladin",
+              "classEn": "Paladin",
+              "title": "Blessed Hammer – Judge",
+              "titleDe": "Gesegneter Hammer – Richter",
+              "titleEn": "Blessed Hammer – Judge"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "apocalypse",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Apocalypse",
+              "titleDe": "Apokalypse",
+              "titleEn": "Apocalypse"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "summoner",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Minion",
+              "titleDe": "Diener",
+              "titleEn": "Minion"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "lunatic",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Lunatic",
+              "titleDe": "Lunatic",
+              "titleEn": "Lunatic"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "hellfire",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Hell Fracture",
+              "titleDe": "Höllenbruch",
+              "titleEn": "Hell Fracture"
+            }
+          ],
+          "C": [
+            {
+              "classId": "barbarian",
+              "guideId": "hota",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Hammer of the Ancients",
+              "titleDe": "Hammer der Urahnen",
+              "titleEn": "Hammer of the Ancients"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "shadowblight",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Blight",
+              "titleDe": "Pest",
+              "titleEn": "Blight"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "cold-army",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Blood Lance",
+              "titleDe": "Blutlanze",
+              "titleEn": "Blood Lance"
+            },
+            {
+              "classId": "spiritborn",
+              "guideId": "quill-volley",
+              "classDe": "Geistgeborener",
+              "classEn": "Spiritborn",
+              "title": "Quill Volley",
+              "titleDe": "Stachelsalve",
+              "titleEn": "Quill Volley"
+            },
+            {
+              "classId": "druid",
+              "guideId": "companion",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Companion",
+              "titleDe": "Begleiter",
+              "titleEn": "Companion"
+            },
+            {
+              "classId": "paladin",
+              "guideId": "shield-moloch",
+              "classDe": "Paladin",
+              "classEn": "Paladin",
+              "title": "Shield of Retribution",
+              "titleDe": "Schild der Vergeltung",
+              "titleEn": "Shield of Retribution"
+            },
+            {
+              "classId": "paladin",
+              "guideId": "zealot",
+              "classDe": "Paladin",
+              "classEn": "Paladin",
+              "title": "Zeal",
+              "titleDe": "Feuereifer",
+              "titleEn": "Zeal"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "dread-claws",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Dread Claws",
+              "titleDe": "Grauensklauen",
+              "titleEn": "Dread Claws"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "retirelock",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Tyrant's Grasp",
+              "titleDe": "Hand des Tyrannen",
+              "titleEn": "Tyrant's Grasp"
+            }
+          ],
+          "D": [
+            {
+              "classId": "sorcerer",
+              "guideId": "hydra",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Hydra",
+              "titleDe": "Hydra",
+              "titleEn": "Hydra"
+            },
+            {
+              "classId": "druid",
+              "guideId": "pulverize",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Pulverize",
+              "titleDe": "Pulverisieren",
+              "titleEn": "Pulverize"
+            },
+            {
+              "classId": "paladin",
+              "guideId": "auradin",
+              "classDe": "Paladin",
+              "classEn": "Paladin",
+              "title": "Auradin",
+              "titleDe": "Auradin",
+              "titleEn": "Auradin"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "abyss-rampage",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Blazing Scream",
+              "titleDe": "Sengender Schrei",
+              "titleEn": "Blazing Scream"
+            }
+          ]
+        }
+      },
+      {
+        "id": "level-ranking",
+        "titleDe": "Level-Tierliste – Maxroll",
+        "titleEn": "Level Tier List – Maxroll",
+        "tiers": {
+          "S": [
+            {
+              "classId": "rogue",
+              "guideId": "lvl-dance",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Dance of Knives",
+              "titleDe": "Tanz der Messer",
+              "titleEn": "Dance of Knives"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "lvl-barrage",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Barrage",
+              "titleDe": "Sperrfeuer",
+              "titleEn": "Barrage"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "lvl-minions",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Minions",
+              "titleDe": "Diener",
+              "titleEn": "Minions"
+            },
+            {
+              "classId": "sorcerer",
+              "guideId": "lvl-blizzard",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Blizzard",
+              "titleDe": "Blizzard",
+              "titleEn": "Blizzard"
+            },
+            {
+              "classId": "paladin",
+              "guideId": "lvl-shield",
+              "classDe": "Paladin",
+              "classEn": "Paladin",
+              "title": "Shield of Retribution",
+              "titleDe": "Schild der Vergeltung",
+              "titleEn": "Shield of Retribution"
+            }
+          ],
+          "A": [
+            {
+              "classId": "barbarian",
+              "guideId": "lvl-whirlwind",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Whirlwind",
+              "titleDe": "Wirbelwind",
+              "titleEn": "Whirlwind"
+            },
+            {
+              "classId": "druid",
+              "guideId": "lvl-lightning",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Lightning Storm",
+              "titleDe": "Gewittersturm",
+              "titleEn": "Lightning Storm"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "lvl-summoner",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Minion",
+              "titleDe": "Diener",
+              "titleEn": "Minion"
+            },
+            {
+              "classId": "spiritborn",
+              "guideId": "lvl-crushing",
+              "classDe": "Geistgeborener",
+              "classEn": "Spiritborn",
+              "title": "Crushing Hand",
+              "titleDe": "Zermalmende Hand",
+              "titleEn": "Crushing Hand"
+            }
+          ],
+          "B": [
+            {
+              "classId": "barbarian",
+              "guideId": "lvl-upheaval",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Upheaval",
+              "titleDe": "Aufwühlen",
+              "titleEn": "Upheaval"
+            },
+            {
+              "classId": "barbarian",
+              "guideId": "lvl-hota",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Hammer of the Ancients",
+              "titleDe": "Hammer der Urahnen",
+              "titleEn": "Hammer of the Ancients"
+            },
+            {
+              "classId": "barbarian",
+              "guideId": "lvl-double",
+              "classDe": "Barbar",
+              "classEn": "Barbarian",
+              "title": "Double Swing",
+              "titleDe": "Doppelschwung",
+              "titleEn": "Double Swing"
+            },
+            {
+              "classId": "druid",
+              "guideId": "lvl-pulverize",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Pulverize",
+              "titleDe": "Pulverisieren",
+              "titleEn": "Pulverize"
+            },
+            {
+              "classId": "druid",
+              "guideId": "lvl-companion",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Companion",
+              "titleDe": "Begleiter",
+              "titleEn": "Companion"
+            },
+            {
+              "classId": "druid",
+              "guideId": "lvl-shred",
+              "classDe": "Druide",
+              "classEn": "Druid",
+              "title": "Shred",
+              "titleDe": "Zerfetzen",
+              "titleEn": "Shred"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "lvl-surge",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Blood Surge",
+              "titleDe": "Blutwoge",
+              "titleEn": "Blood Surge"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "lvl-spear",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Bone Spear",
+              "titleDe": "Knochenspeer",
+              "titleEn": "Bone Spear"
+            },
+            {
+              "classId": "necromancer",
+              "guideId": "lvl-lance",
+              "classDe": "Totenbeschwörer",
+              "classEn": "Necromancer",
+              "title": "Blood Lance",
+              "titleDe": "Blutlanze",
+              "titleEn": "Blood Lance"
+            },
+            {
+              "classId": "paladin",
+              "guideId": "lvl-hammer",
+              "classDe": "Paladin",
+              "classEn": "Paladin",
+              "title": "Blessed Hammer",
+              "titleDe": "Gesegneter Hammer",
+              "titleEn": "Blessed Hammer"
+            },
+            {
+              "classId": "paladin",
+              "guideId": "lvl-lance",
+              "classDe": "Paladin",
+              "classEn": "Paladin",
+              "title": "Divine Lance",
+              "titleDe": "Göttliche Lanze",
+              "titleEn": "Divine Lance"
+            },
+            {
+              "classId": "paladin",
+              "guideId": "lvl-zeal",
+              "classDe": "Paladin",
+              "classEn": "Paladin",
+              "title": "Zeal",
+              "titleDe": "Feuereifer",
+              "titleEn": "Zeal"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "lvl-rapid",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Rapid Fire",
+              "titleDe": "Schnellfeuer",
+              "titleEn": "Rapid Fire"
+            },
+            {
+              "classId": "rogue",
+              "guideId": "lvl-flurry",
+              "classDe": "Jäger",
+              "classEn": "Rogue",
+              "title": "Flurry",
+              "titleDe": "Klingenwirbel",
+              "titleEn": "Flurry"
+            },
+            {
+              "classId": "sorcerer",
+              "guideId": "lvl-firewall",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Firewall",
+              "titleDe": "Feuerwand",
+              "titleEn": "Firewall"
+            },
+            {
+              "classId": "sorcerer",
+              "guideId": "lvl-fireball",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Fireball",
+              "titleDe": "Feuerball",
+              "titleEn": "Fireball"
+            },
+            {
+              "classId": "sorcerer",
+              "guideId": "lvl-charged",
+              "classDe": "Zauberer",
+              "classEn": "Sorcerer",
+              "title": "Charged Bolts",
+              "titleDe": "Comboblitze",
+              "titleEn": "Charged Bolts"
+            },
+            {
+              "classId": "spiritborn",
+              "guideId": "lvl-quill",
+              "classDe": "Geistgeborener",
+              "classEn": "Spiritborn",
+              "title": "Quill Volley",
+              "titleDe": "Stachelsalve",
+              "titleEn": "Quill Volley"
+            },
+            {
+              "classId": "spiritborn",
+              "guideId": "lvl-payback",
+              "classDe": "Geistgeborener",
+              "classEn": "Spiritborn",
+              "title": "Payback",
+              "titleDe": "Heimzahlen",
+              "titleEn": "Payback"
+            },
+            {
+              "classId": "spiritborn",
+              "guideId": "lvl-stinger",
+              "classDe": "Geistgeborener",
+              "classEn": "Spiritborn",
+              "title": "Stinger",
+              "titleDe": "Stachel",
+              "titleEn": "Stinger"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "lvl-dread",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Dread Claws",
+              "titleDe": "Grauensklauen",
+              "titleEn": "Dread Claws"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "lvl-fracture",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Hell Fracture",
+              "titleDe": "Höllenbruch",
+              "titleEn": "Hell Fracture"
+            },
+            {
+              "classId": "warlock",
+              "guideId": "lvl-terror",
+              "classDe": "Hexenmeister",
+              "classEn": "Warlock",
+              "title": "Blazing Scream",
+              "titleDe": "Sengender Schrei",
+              "titleEn": "Blazing Scream"
+            }
+          ],
+          "C": [],
+          "D": []
+        }
+      }
+    ],
+    "navigationMode": "internal-guide",
+    "updatePolicyDe": "Rangfolge nach Maxroll. Jeder Eintrag muss auf einen in der APK vorhandenen Guide zeigen.",
+    "updatePolicyEn": "Ordering follows Maxroll. Every entry must point to a guide embedded in the APK.",
+    "internalGuideEntries": 77,
+    "auditRevision": "2026-07-21-maxroll-s14-blizzard-de-en-v2"
+  },
+  "translationRevision": "de-en-2026-07-21-r2",
+  "translationAudit": {
+    "revision": "2026-07-21-blizzard-official-de-en-v2",
+    "officialNamePolicy": "Blizzard localized names first; Maxroll build labels retained in English.",
+    "languageStorageKeys": [
+      "d4-language",
+      "bbg-language",
+      "pbk-language",
+      "d4-tier-language"
+    ]
+  },
+  "themeRevision": "blood-ui-2026-07-21-r3",
+  "lootSourceAudit": {
+    "revision": "2026-07-21-boss-raid-sources-v1",
+    "displayedInBuilds": true,
+    "coverage": "Unique and Mythic sections resolve boss, seasonal activity, or raid through the embedded item catalog."
+  },
+  "manifestFileName": "manifest-tabs10fe-v1.0.67.json",
+  "manifestRawUrl": "https://raw.githubusercontent.com/roterweltmeister3011-droid/diablo4-guides-tabs10fe-updates/main/manifest-tabs10fe-v1.0.67.json",
+  "updateSystem": {
+    "revision": "2026-07-21-tabs10fe-strict-v7",
+    "repository": "roterweltmeister3011-droid/diablo4-guides-tabs10fe-updates",
+    "preferredManifestFileName": "manifest-tabs10fe-v1.0.67.json",
+    "manifestRawUrl": "https://raw.githubusercontent.com/roterweltmeister3011-droid/diablo4-guides-tabs10fe-updates/main/manifest-tabs10fe-v1.0.67.json",
+    "apkAssetPrefix": "Diablo_IV_Guides_Tab_S10_FE_",
+    "strictChannel": "tabs10fe-stable",
+    "strictPackage": "com.marc.diablo4guides.tabs10feapp01",
+    "forbiddenManifestNames": [
+      "manifest.json",
+      "manifest-fold7.json"
+    ]
+  },
+  "apkSha256": "737bdc77a31d9ec75fbd3b2b92214724c61c8273bd8cfe2faedc156ca29775de",
+  "signingCertificateSha256": "9f709b6abad17f409bcea6e5c3365b210913663accfae39ba104b97edeb929db"
+}
